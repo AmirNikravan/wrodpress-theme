@@ -1,3 +1,4 @@
+<h1>this is page.php</h1>
 <?php 
 while (have_posts()){
     the_post();
